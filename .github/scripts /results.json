@@ -1,1 +1,20 @@
-
+[
+  {
+    "sys_info": {
+      "system": "Darwin",
+      "memory": 16.0,
+      "cpu": "Apple M2",
+      "gpu": "Apple M2",
+      "os_version": "macOS 15.3.1 (24D70)",
+      "system_name": "macOS",
+      "model": "Mac14,3",
+      "uuid": "b05184b1-6e81-54b1-b1fa-f2ac23784229"
+    },
+    "uuid": "b05184b1-6e81-54b1-b1fa-f2ac23784229",
+    "ollama_version": "0.5.11",
+    "bench_results_info": {
+      "gemma:2b": "48.27",
+      "deepseek-r1:1.5b": "58.15"
+    }
+  }
+]
