@@ -34,5 +34,22 @@
         "gemma:2b": "90.78",
         "deepseek-r1:1.5b": "112.10"
     }
+},
+  {
+    "sys_info": {
+        "system": "Windows",
+        "memory": 31.841278076171875,
+        "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "gpu": "Parsec Virtual Display Adapter NVIDIA GeForce RTX 3050",
+        "os_version": "Microsoft Windows 11 ???\n",
+        "system_name": "Windows",
+        "run_in": "Unknown",
+        "uuid": "3a7e6c08-fe1d-5177-aea6-30690e85c3e2"
+    },
+    "uuid": "3a7e6c08-fe1d-5177-aea6-30690e85c3e2",
+    "ollama_version": "0.5.11",
+    "bench_results_info": {
+        "phi:2.7b": "88.21"
+    }
 }
 ]
